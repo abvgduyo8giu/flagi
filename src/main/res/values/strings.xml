@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">03-02</string>
+    <string name="btnArgent">Аргентина</string>
+    <string name="btnBrazil">Бразилия</string>
+    <string name="btnChili">Чили</string>
+    <string name="btnColumbia">Колумбия</string>
+    <string name="btnUruguay">Уругвай</string>
+
+    <string name="flagArgent">Флаг Аргентины</string>
+    <string name="flagBrazil">Флаг Бразилии</string>
+    <string name="flagChili">Флаг Чили</string>
+    <string name="flagColumbia">Флаг Колумбии</string>
+    <string name="flagUruguay">Флаг Уругвай</string>
+</resources>
